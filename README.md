@@ -6,10 +6,11 @@ infrastructure, big-picture city finance, and General Plan Update items.
 Generated automatically every Friday evening by a Claude Code cloud routine.
 
 **Latest report:** [latest.md](latest.md)
-**Live version:** https://claude.ai/code/artifact/ef2ae049-839b-4839-ba5d-786a42f04114
+**Live version:** https://claude.ai/artifact/WXwRmi9EBKma5XdqFUDGCj
 
 ## Past reports
 
+- [2026-09-25](reports/2026-09-25.md)
 - [2026-09-21](reports/2026-09-21.md)
 - [2026-09-09](reports/2026-09-09.md)
 - [2026-08-28](reports/2026-08-28.md)
