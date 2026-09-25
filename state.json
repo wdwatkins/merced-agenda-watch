@@ -1,0 +1,16 @@
+{
+  "lastRunDate": "2026-09-21",
+  "artifactUrl": "https://claude.ai/code/artifact/ef2ae049-839b-4839-ba5d-786a42f04114",
+  "seenAgendas": {
+    "1340076": { "body": "City Council", "date": "2026-08-17", "agendaPublished": true, "cancelled": false, "reported": false },
+    "1440141": { "body": "City Council", "date": "2026-08-26", "agendaPublished": false, "cancelled": false, "reported": false },
+    "1340077": { "body": "City Council", "date": "2026-09-08", "agendaPublished": true, "cancelled": false, "reported": true },
+    "1340078": { "body": "City Council", "date": "2026-09-21", "agendaPublished": true, "cancelled": false, "reported": true },
+    "1340075": { "body": "City Council", "date": "2026-10-05", "agendaPublished": false, "cancelled": false, "reported": false },
+    "1359967": { "body": "Planning Commission", "date": "2026-08-19", "agendaPublished": false, "cancelled": true, "reported": false },
+    "1359969": { "body": "Planning Commission", "date": "2026-09-09", "agendaPublished": true, "cancelled": false, "reported": true },
+    "1359970": { "body": "Planning Commission", "date": "2026-09-23", "agendaPublished": false, "cancelled": true, "reported": true },
+    "1359971": { "body": "Planning Commission", "date": "2026-10-07", "agendaPublished": false, "cancelled": false, "reported": false }
+  },
+  "notes": "Managed by the merced-agenda-watch cloud routine. seenAgendas maps Legistar meeting ID -> {body, date, agendaPublished, cancelled, reported}. Migrated from a local scheduled task to this GitHub-backed cloud routine on 2026-09-25; dedup state and the Artifact link were carried forward unchanged."
+}
