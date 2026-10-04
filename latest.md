@@ -1,49 +1,41 @@
-# Merced Agenda Watch — Friday Sep 25, 2026, 4:00 PM
+# Merced Agenda Watch — Sunday Oct 4, 2026, 2:06 PM PDT
 
-0 newly published agendas for City Council or Planning Commission; 2 newly published subcommittee agendas (Public Safety, 9/22/2026; Public Works, Roads, and Infrastructure, 9/30/2026).
+2 newly published agenda items this cycle: 1 new agenda (City Council, Oct 5), 1 newly posted cancellation (Planning Commission, Oct 7).
 
-## Your topics this cycle
+**Your topics this cycle:** Annexations: none · Street & bike-ped: 1 item · Big-picture finance: none
 
-Annexations: none · Street & bike-ped: 1 item · Big-picture finance: 1 item
+---
 
 ## ⚑ Flagged items
 
-**Public Safety Subcommittee 9/22/2026, item D.2 · Report Item**
-Staff presented on bicycle safety trends, incidents, and community concerns citywide, alongside bicycle safety education and enforcement efforts. The item also floats potential amendments to the Merced Municipal Code to add or strengthen enforcement options for unsafe bicycle operation and other bicycle-related violations. Recommendation is for the Subcommittee to discuss and give staff direction — no ordinance language is attached yet, so this is a direction-setting discussion rather than an action item. No site, dollar, or funding detail applies. [Street design / bike & pedestrian]
+**City Council 2026-10-05, item H.2 · Professional Services Agreement**
+Council is asked to approve a $1,223,480.80 contract with Dokken Engineering for environmental/design work (PA&ED and PS&E) on two projects: the Highway 59 Phase 1 Widening from 16th Street through Yosemite Avenue, and the Highway 59 Bridges over Black Rascal Creek. The staff recommendation also asks the Council to waive competitive bidding under Merced Municipal Code §3.04.210 (standardization) rather than bid the work out. Funding source was not specified in the item summary. [Street design / bike & pedestrian infrastructure]
 
-**Public Works, Roads, and Infrastructure Subcommittee 9/30/2026, item D.1 · Report Item**
-Staff is seeking direction to recommend that City Council proceed with Prop. 218 assessment ballot proceedings for seven underfunded maintenance districts: Campus North, East College Homes, Fahrens Park I, Hansen Park, Olivewood, Pleasanton Park, and Yosemite Village. Six of the seven already failed a ballot in February 2026 (Yosemite Village's own prior attempt failed back in 2013); none of the districts has a CPI escalator, so assessment revenue has been flat for roughly 30 years while costs (irrigation, storm-pump electricity, landscape upkeep) have risen. Staff has already cut service (reduced hours, suspended contracts, turned off irrigation) but says further austerity isn't enough — without a successful ballot, service levels drop further. No proposed assessment dollar amount is stated in the item text itself; balloting costs are covered by each district's fund if the measure passes, otherwise by the General Fund. [Big-picture city finance]
+---
 
-## Condensed list, per body
+## City Council — 2026-10-05 · 22 items · [packet](https://cityofmerced.legistar.com/MeetingDetail.aspx?ID=1340079&GUID=C64D98F9-922C-4387-B544-0C76EA365491)
 
-### City Council — nothing new
+- **C.1 Proclamation:** Domestic Violence Prevention Awareness Month
+- **C.2 Proclamation:** Breast Cancer Awareness Month
+- **F.3 Consent:** Second Amendment to City Manager employment agreement, adding a 3-year term
+- **F.6 Consent:** Facility use (parking) agreement with the El Capitan Hotel Merced, LLC
+- **G.1 Public Hearing:** Vacation #26-0002 — vacating a 55-ft-wide portion of Canal (L) Street
+- **G.2 Public Hearing:** Vacation #25-0001 — vacating a 20-ft easement at 400 West 7th Street
+- **H.1 Action:** On-call professional services agreements with Interwest Consulting, CSG Consultants, and Bureau Veritas North America
+- **H.4 Action:** Resolution proclaiming a local emergency ahead of the developing 2026–2027 El Niño event
+- **H.5 Action:** Accept and appropriate a $278,182 FEMA Assistance to Firefighters Grant (plus $27,819 General Fund match) for HazMat Technician training for 18 firefighters
+- Plus 12 more routine items: contract/agreement consent items (ordinance reading, September contracts report, legal services amendment, Arts Council lease, cardiac monitor purchase, hay brokerage agreement, Samsara software license, Badger Meter agreement), an MOU with Merced County on Bear Creek vegetation maintenance, annual Planning Commission district appointment, a request to add an item to a future agenda, and City Council comments.
 
-No newly published City Council agenda this run. The 9/21/2026 meeting was already reported last week; the 10/5/2026 meeting's agenda is not yet public (page marked "not viewable by the public").
+## Planning Commission — 2026-10-07 · cancelled
 
-### Planning Commission — nothing new
+- Meeting cancelled. A "Notice of Meeting Cancellation" was posted for the October 7, 2026 regular meeting. No agenda items were published.
 
-No newly published Planning Commission agenda this run. The 9/9/2026 meeting and the 9/23/2026 cancellation were already reported last week; the 10/7/2026 meeting's agenda is not yet posted.
-
-### Public Safety Subcommittee — September 22, 2026 · 5 items · [packet](https://cityofmerced.legistar.com/MeetingDetail.aspx?ID=1445029&GUID=3B34E203-1B65-49EB-8658-3FE38C1A087A&Options=&Search=)
-
-- **D.1 Report Item:** Update on the Automatic Aid Agreement for Fire and Emergency Services between the City and Merced County, including discussion of extending it
-- **D.2 Report Item:** Bicycle safety awareness and enforcement — see Flagged items
-- **D.3 Report Item:** Discussion of the Subcommittee's roles/duties and setting a recurring meeting schedule
-- **E.1 Business:** Request to add a future agenda item
-- **E.2 Business:** Subcommittee comments
-
-### Public Works, Roads, and Infrastructure Subcommittee — September 30, 2026 · 5 items · [packet](https://cityofmerced.legistar.com/MeetingDetail.aspx?ID=1443436&GUID=CE260CAF-1823-4694-8247-CB4310F03F17&Options=&Search=)
-
-- **D.1 Report Item:** Maintenance districts assessment ballot proceeding — see Flagged items
-- **D.2 Report Item:** Bob Hart Square fountain — repair vs. convert to a planter
-- **D.3 Report Item:** Discussion of the Subcommittee's roles/duties and setting a recurring meeting schedule
-- **E.1 Business:** Subcommittee comments
-- **E.2 Business:** Request to add a future agenda item
+---
 
 ## Footer
 
-- Next City Council meeting: **10/5/2026** — agenda not yet posted.
-- Next Planning Commission meeting: **10/7/2026** — agenda not yet posted.
-- Ethics and Governance Subcommittee, Finance and Economic Development Subcommittee, and South Merced Subcommittee: no meetings currently scheduled in the look-ahead window.
-- Source: City of Merced Legistar (cityofmerced.legistar.com)
-- Spec last changed: 2026-09-25
+- **City Council:** next meeting Oct 5, 2026 — agenda posted (covered above). Following meeting Oct 19, 2026 — agenda not yet posted.
+- **Planning Commission:** next meeting Oct 7, 2026 — cancelled. Following meeting Oct 21, 2026 — agenda not yet posted.
+- **Council subcommittees checked this run:** Ethics & Governance, Finance & Economic Development, Public Safety, Public Works/Roads/Infrastructure, South Merced — no newly published agendas or cancellations in the Sep 24–Oct 25 window.
+- Source: City of Merced Legistar.
+- Spec last changed: 2026-09-25.
