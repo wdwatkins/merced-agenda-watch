@@ -1,5 +1,5 @@
 {
-  "lastRunDate": "2026-10-04",
+  "lastRunDate": "2026-10-09",
   "artifactUrl": "https://claude.ai/artifact/WXwRmi9EBKma5XdqFUDGCj",
   "seenAgendas": {
     "1340076": { "body": "City Council", "date": "2026-08-17", "agendaPublished": true, "cancelled": false, "reported": false },
@@ -13,8 +13,9 @@
     "1359970": { "body": "Planning Commission", "date": "2026-09-23", "agendaPublished": false, "cancelled": true, "reported": true },
     "1359971": { "body": "Planning Commission", "date": "2026-10-07", "agendaPublished": false, "cancelled": true, "reported": true },
     "1359972": { "body": "Planning Commission", "date": "2026-10-21", "agendaPublished": false, "cancelled": false, "reported": false },
+    "1359973": { "body": "Planning Commission", "date": "2026-11-04", "agendaPublished": false, "cancelled": false, "reported": false },
     "1445029": { "body": "Public Safety Subcommittee", "date": "2026-09-22", "agendaPublished": true, "cancelled": false, "reported": true },
     "1443436": { "body": "Public Works, Roads, and Infrastructure Subcommittee", "date": "2026-09-30", "agendaPublished": true, "cancelled": false, "reported": true }
   },
-  "notes": "Managed by the merced-agenda-watch cloud routine. seenAgendas maps Legistar meeting ID -> {body, date, agendaPublished, cancelled, reported}. 2026-10-04 run: 1340079 (CC 10/5) agenda published (22 items, flagged H.2 Highway 59 widening/bridge design contract); 1340080 (CC 10/19) checked directly via MeetingDetail page and confirmed still in draft/not published. 1359971 (PC 10/7) got a newly posted cancellation notice. Added 1359972 (PC 10/21, newly visible in the ~21-day lookahead, no agenda yet). Note: the previous entry keyed \"1340075\" for the 2026-10-05 City Council meeting was a stale/incorrect ID from an earlier run's summarized-fetch step; corrected to 1340079 in the 2026-09-25 run."
+  "notes": "Managed by the merced-agenda-watch cloud routine. seenAgendas maps Legistar meeting ID -> {body, date, agendaPublished, cancelled, reported}. 2026-10-09 run: nothing new. Confirmed 1340080 (CC 10/19) and 1359972 (PC 10/21) both still unpublished; 1359971 (PC 10/7) still cancelled. Added 1359973 (PC 11/4), newly visible in the lookahead window, no agenda yet. All five subcommittee DepartmentDetail pages checked: no newly published agendas or cancellations in range (Ethics & Governance and South Merced show zero meeting rows at all; Finance & Econ Dev and Public Safety's only rows are older than the lookback window and already reflected above)."
 }
