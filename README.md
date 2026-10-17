@@ -10,6 +10,7 @@ Generated automatically every Friday evening by a Claude Code cloud routine.
 
 ## Past reports
 
+- [2026-10-16](reports/2026-10-16.md)
 - [2026-10-09](reports/2026-10-09.md)
 - [2026-10-04](reports/2026-10-04.md)
 - [2026-09-25](reports/2026-09-25.md)

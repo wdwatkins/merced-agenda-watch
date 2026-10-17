@@ -1,5 +1,5 @@
 {
-  "lastRunDate": "2026-10-09",
+  "lastRunDate": "2026-10-16",
   "artifactUrl": "https://claude.ai/artifact/WXwRmi9EBKma5XdqFUDGCj",
   "seenAgendas": {
     "1340076": { "body": "City Council", "date": "2026-08-17", "agendaPublished": true, "cancelled": false, "reported": false },
@@ -7,15 +7,19 @@
     "1340077": { "body": "City Council", "date": "2026-09-08", "agendaPublished": true, "cancelled": false, "reported": true },
     "1340078": { "body": "City Council", "date": "2026-09-21", "agendaPublished": true, "cancelled": false, "reported": true },
     "1340079": { "body": "City Council", "date": "2026-10-05", "agendaPublished": true, "cancelled": false, "reported": true },
-    "1340080": { "body": "City Council", "date": "2026-10-19", "agendaPublished": false, "cancelled": false, "reported": false },
+    "1340080": { "body": "City Council", "date": "2026-10-19", "agendaPublished": true, "cancelled": false, "reported": true },
+    "1340081": { "body": "City Council", "date": "2026-11-02", "agendaPublished": false, "cancelled": false, "reported": false },
+    "1340082": { "body": "City Council", "date": "2026-11-16", "agendaPublished": false, "cancelled": false, "reported": false },
     "1359967": { "body": "Planning Commission", "date": "2026-08-19", "agendaPublished": false, "cancelled": true, "reported": false },
     "1359969": { "body": "Planning Commission", "date": "2026-09-09", "agendaPublished": true, "cancelled": false, "reported": true },
     "1359970": { "body": "Planning Commission", "date": "2026-09-23", "agendaPublished": false, "cancelled": true, "reported": true },
     "1359971": { "body": "Planning Commission", "date": "2026-10-07", "agendaPublished": false, "cancelled": true, "reported": true },
-    "1359972": { "body": "Planning Commission", "date": "2026-10-21", "agendaPublished": false, "cancelled": false, "reported": false },
+    "1359972": { "body": "Planning Commission", "date": "2026-10-21", "agendaPublished": false, "cancelled": true, "reported": true },
     "1359973": { "body": "Planning Commission", "date": "2026-11-04", "agendaPublished": false, "cancelled": false, "reported": false },
+    "1359974": { "body": "Planning Commission", "date": "2026-11-18", "agendaPublished": false, "cancelled": false, "reported": false },
     "1445029": { "body": "Public Safety Subcommittee", "date": "2026-09-22", "agendaPublished": true, "cancelled": false, "reported": true },
-    "1443436": { "body": "Public Works, Roads, and Infrastructure Subcommittee", "date": "2026-09-30", "agendaPublished": true, "cancelled": false, "reported": true }
+    "1443436": { "body": "Public Works, Roads, and Infrastructure Subcommittee", "date": "2026-09-30", "agendaPublished": true, "cancelled": false, "reported": true },
+    "1440144": { "body": "Finance and Economic Development Subcommittee", "date": "2026-09-02", "agendaPublished": true, "cancelled": false, "reported": false }
   },
-  "notes": "Managed by the merced-agenda-watch cloud routine. seenAgendas maps Legistar meeting ID -> {body, date, agendaPublished, cancelled, reported}. 2026-10-09 run: nothing new. Confirmed 1340080 (CC 10/19) and 1359972 (PC 10/21) both still unpublished; 1359971 (PC 10/7) still cancelled. Added 1359973 (PC 11/4), newly visible in the lookahead window, no agenda yet. All five subcommittee DepartmentDetail pages checked: no newly published agendas or cancellations in range (Ethics & Governance and South Merced show zero meeting rows at all; Finance & Econ Dev and Public Safety's only rows are older than the lookback window and already reflected above)."
+  "notes": "Managed by the merced-agenda-watch cloud routine. seenAgendas maps Legistar meeting ID -> {body, date, agendaPublished, cancelled, reported}. 2026-10-16 run: City Council 10/19 agenda newly published (21 items; flagged J.2 Virginia Smith Trust JPA / land-secured financing under Big-picture finance). Planning Commission 10/21 newly posted a cancellation notice. Added newly-visible lookahead meetings: CC 11/2 (1340081) and 11/16 (1340082), PC 11/18 (1359974), all unpublished. Also newly observed (outside lookback window, not reported): Finance and Econ Dev Subcommittee's only row, 9/2/2026 (1440144), already had a published agenda from before tracking began. Ethics & Governance and South Merced subcommittees show zero meeting rows again. Public Safety and Public Works subcommittees show only their already-reported rows (9/22, 9/30) with no new activity."
 }
