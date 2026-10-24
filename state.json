@@ -1,5 +1,5 @@
 {
-  "lastRunDate": "2026-10-16",
+  "lastRunDate": "2026-10-23",
   "artifactUrl": "https://claude.ai/artifact/WXwRmi9EBKma5XdqFUDGCj",
   "seenAgendas": {
     "1340076": { "body": "City Council", "date": "2026-08-17", "agendaPublished": true, "cancelled": false, "reported": false },
@@ -21,5 +21,5 @@
     "1443436": { "body": "Public Works, Roads, and Infrastructure Subcommittee", "date": "2026-09-30", "agendaPublished": true, "cancelled": false, "reported": true },
     "1440144": { "body": "Finance and Economic Development Subcommittee", "date": "2026-09-02", "agendaPublished": true, "cancelled": false, "reported": false }
   },
-  "notes": "Managed by the merced-agenda-watch cloud routine. seenAgendas maps Legistar meeting ID -> {body, date, agendaPublished, cancelled, reported}. 2026-10-16 run: City Council 10/19 agenda newly published (21 items; flagged J.2 Virginia Smith Trust JPA / land-secured financing under Big-picture finance). Planning Commission 10/21 newly posted a cancellation notice. Added newly-visible lookahead meetings: CC 11/2 (1340081) and 11/16 (1340082), PC 11/18 (1359974), all unpublished. Also newly observed (outside lookback window, not reported): Finance and Econ Dev Subcommittee's only row, 9/2/2026 (1440144), already had a published agenda from before tracking began. Ethics & Governance and South Merced subcommittees show zero meeting rows again. Public Safety and Public Works subcommittees show only their already-reported rows (9/22, 9/30) with no new activity."
+  "notes": "Managed by the merced-agenda-watch cloud routine. seenAgendas maps Legistar meeting ID -> {body, date, agendaPublished, cancelled, reported}. 2026-10-23 run: nothing new. City Council 11/2 (1340081) still unpublished; Planning Commission 11/4 (1359973) still unpublished and not cancelled. No change to any previously-tracked row. Ethics & Governance and South Merced subcommittees still show zero meeting rows. Public Safety, Public Works, and Finance & Econ Dev subcommittees show only their already-reported/already-observed rows (9/22, 9/30, 9/2) with no new activity. CC DepartmentDetail page now also lists 12/7 (1340083) and 12/21 (1340084), both far outside the lookahead window and not yet published; PC page now also lists 12/9 (1359975) and 12/23 (1359976), same situation — not added to seenAgendas since neither is within the ~21-day lookahead window yet."
 }
