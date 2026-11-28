@@ -10,6 +10,7 @@ Generated automatically every Friday evening by a Claude Code cloud routine.
 
 ## Past reports
 
+- [2026-11-28](reports/2026-11-28.md)
 - [2026-11-21](reports/2026-11-21.md)
 - [2026-11-13](reports/2026-11-13.md)
 - [2026-11-07](reports/2026-11-07.md)
@@ -21,7 +22,6 @@ Generated automatically every Friday evening by a Claude Code cloud routine.
 - [2026-09-25](reports/2026-09-25.md)
 - [2026-09-21](reports/2026-09-21.md)
 - [2026-09-09](reports/2026-09-09.md)
-- [2026-08-28](reports/2026-08-28.md)
 
 Configuration lives in [spec.md](spec.md) — edit it to change what gets flagged,
 the report format, or which bodies are watched.

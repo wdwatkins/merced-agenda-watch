@@ -1,5 +1,5 @@
 {
-  "lastRunDate": "2026-11-21",
+  "lastRunDate": "2026-11-28",
   "artifactUrl": "https://claude.ai/artifact/WXwRmi9EBKma5XdqFUDGCj",
   "seenAgendas": {
     "1340076": { "body": "City Council", "date": "2026-08-17", "agendaPublished": true, "cancelled": false, "reported": false },
@@ -26,5 +26,5 @@
     "1440144": { "body": "Finance and Economic Development Subcommittee", "date": "2026-09-02", "agendaPublished": true, "cancelled": false, "reported": true },
     "1460767": { "body": "Ethics and Governance Subcommittee", "date": "2026-11-17", "agendaPublished": true, "cancelled": false, "reported": true }
   },
-  "notes": "Managed by the merced-agenda-watch cloud routine. seenAgendas maps Legistar meeting ID -> {body, date, agendaPublished, cancelled, reported}. 2026-11-21 run: nothing new. Checked City Council and Planning Commission DepartmentDetail pages plus all five subcommittees; every meeting row seen (CC 1340080/1340081/1340082, PC 1359972/1359973/1359974, and the four subcommittee meetings already on record) matches state exactly, with no newly published agendas and no newly posted cancellations. CC 12/7 (1340083) and 12/21 (1340084), PC 12/9 (1359975) and 12/23 (1359976) remain unpublished and within the ~21-day lookahead but still show no agenda. South Merced Subcommittee still shows zero meeting rows. Produced the nothing-new report."
+  "notes": "Managed by the merced-agenda-watch cloud routine. seenAgendas maps Legistar meeting ID -> {body, date, agendaPublished, cancelled, reported}. 2026-11-28 run: nothing new. Checked City Council and Planning Commission DepartmentDetail pages plus all five subcommittees; every meeting row seen (CC 1340082/1340083/1340084, PC 1359974/1359975/1359976, and the four subcommittee meetings already on record) matches state exactly, with no newly published agendas and no newly posted cancellations. CC 12/7 (1340083) and PC 12/9 (1359975) remain unpublished but within the ~21-day lookahead; CC 12/21 (1340084) and PC 12/23 (1359976) are now outside the lookahead window. South Merced Subcommittee still shows zero meeting rows. Produced the nothing-new report."
 }
